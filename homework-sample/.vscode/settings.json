@@ -1,5 +1,5 @@
 {
-    "vsicons.presets.angular": true,
+    "vsicons.presets.angular": false,
     "vsicons.presets.jsOfficial": true,
     "vsicons.presets.tsOfficial": true,
     "vsicons.presets.jsonOfficial": true,
